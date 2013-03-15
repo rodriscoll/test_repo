@@ -1,0 +1,5 @@
+C:\Users\rodriscoll\Documents\Visual Studio 2005\Projects\TinyMCETest\TinyMCETest\bin\TinyMCETest.dll
+C:\Users\rodriscoll\Documents\Visual Studio 2005\Projects\TinyMCETest\TinyMCETest\bin\TinyMCETest.pdb
+C:\Users\rodriscoll\Documents\Visual Studio 2005\Projects\TinyMCETest\TinyMCETest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rodriscoll\Documents\Visual Studio 2005\Projects\TinyMCETest\TinyMCETest\obj\Debug\TinyMCETest.dll
+C:\Users\rodriscoll\Documents\Visual Studio 2005\Projects\TinyMCETest\TinyMCETest\obj\Debug\TinyMCETest.pdb
